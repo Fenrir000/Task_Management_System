@@ -1,1 +1,1 @@
-Сначала нужно запустить docker compose файла compose.yaml
+Сначала нужно запустить docker compose файла compose.yaml, а затем само приложение.
